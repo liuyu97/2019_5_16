@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af18b8db-08ea-4ae7-8430-e691cf89f778" name="Default Changelist" comment="05.16morning">
-      <change afterPath="$PROJECT_DIR$/demo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imges/hangxian_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minhang.html" beforeDir="false" afterPath="$PROJECT_DIR$/minhang.html" afterDir="false" />
+    <list default="true" id="af18b8db-08ea-4ae7-8430-e691cf89f778" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/styles/minhang.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/minhang.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minhang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
+            <state relative-caret-position="-2550">
               <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
             </state>
           </provider>
@@ -47,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/minhang.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
+            <state relative-caret-position="692">
+              <caret line="251" column="1" selection-start-line="251" selection-start-column="1" selection-end-line="251" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -101,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="141" />
     <option name="y" value="12" />
     <option name="width" value="1400" />
@@ -181,7 +178,7 @@
       <updated>1557806429924</updated>
       <workItem from="1557806432366" duration="15953000" />
       <workItem from="1557880559744" duration="25551000" />
-      <workItem from="1557967298046" duration="6988000" />
+      <workItem from="1557967298046" duration="7854000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1557967813271</created>
@@ -204,11 +201,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557969522409</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="05.16morning1">
+      <created>1557978231380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557978231380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48492000" />
+    <option name="totallyTimeSpent" value="49358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,7 +245,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="05.16早" />
     <MESSAGE value="05.16morning" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.16morning" />
+    <MESSAGE value="05.16morning1" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.16morning1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo2.html" />
@@ -258,9 +263,6 @@
     <entry file="file://$PROJECT_DIR$/imges/banner2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imges/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -270,13 +272,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imges/banner1.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minhang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -288,13 +283,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/minhang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2550">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imges/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/imges/hangxian_bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/minhang.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
+        <state relative-caret-position="692">
+          <caret line="251" column="1" selection-start-line="251" selection-start-column="1" selection-end-line="251" selection-end-column="1" />
         </state>
       </provider>
     </entry>

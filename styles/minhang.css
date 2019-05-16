@@ -217,17 +217,19 @@ body {
     width: 223px;
     height: 140px;
     margin: 15px 6px;
+    color: rgb(0, 85, 170);
 
     background: #fff url(../imges/hangxian_bg.png) 0 0;
 }
 
 .hangxian:hover {
     background: #fff url(../imges/hangxian_bg.png) 225px 0;
+    color: rgb(85, 85, 85);
 }
 
 .hangxian p {
     text-align: center;
-    color: rgb(0, 85, 170);
+
 }
 
 .hangxian .place {
@@ -247,9 +249,4 @@ body {
 .hangxian .price {
     color: rgb(255, 102, 0);
     font-size: large;
-}
-
-.hangxian p:hover {
-    text-align: center;
-    color: rgb(85, 85, 85);
 }
